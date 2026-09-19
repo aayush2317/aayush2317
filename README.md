@@ -12,9 +12,9 @@
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<h align="left">
+<p align="left">
   <img
-    src="https:///ghpvc/?username=aayush2317&label=Profile%20views&color=0e75b6&style=flat"
-    alt="aayushyadav"
+    src="https://komarev.com/ghpvc/?username=aayush2317&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile Views"
   />
 </p>
