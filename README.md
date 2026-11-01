@@ -1,4 +1,5 @@
 <table border="0">
+  <!-- Row 1: Bio, Banner, and Swimming Koi -->
   <tr>
     <td width="55%" valign="top">
       <h2>Hi 👋, I'm Aayush.</h2>
@@ -11,6 +12,17 @@
     </td>
     <td width="45%" align="center" valign="middle">
       <img src="./koi/koi.gif" width="100%" alt="GitHub Activity Koi" />
+    </td>
+  </tr>
+
+  <!-- Row 2: Dynamic Stats Cards -->
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=aayush2317&show_icons=true&theme=tokyonight&hide_border=true" alt="Aayush's GitHub Stats" width="49%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush2317&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+      </p>
     </td>
   </tr>
 </table>
