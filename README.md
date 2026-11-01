@@ -26,13 +26,13 @@
     </td>
   </tr>
 
-  <!-- Row 3: Dynamic LeetCode Card for aayush_yadav23 -->
+  <!-- Row 3: Dynamic LeetCode Card -->
   <tr>
     <td colspan="2" align="center">
       <br/>
       <p align="center">
         <a href="https://leetcode.com/u/aayush_yadav23/" target="_blank">
-          <img src="https://leetcode-stats-three.vercel.app/api?username=aayush_yadav23&theme=dark" width="50%" alt="LeetCode Stats" />
+          <img src="https://leetcode-badge.vercel.app/api/users/aayush_yadav23?theme=tokyonight" width="55%" alt="LeetCode Stats" />
         </a>
       </p>
     </td>
@@ -50,8 +50,4 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Mint" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      </p>
-    </td>
-  </tr>
-</table>
+        <img src="
