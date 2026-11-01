@@ -26,13 +26,13 @@
     </td>
   </tr>
 
-  <!-- Row 3: Dynamic LeetCode Stats Card -->
+  <!-- Row 3: Dynamic LeetCode Card for aayush_yadav23 -->
   <tr>
     <td colspan="2" align="center">
       <br/>
       <p align="center">
-        <a href="https://leetcode.com/u/aayush2317/" target="_blank">
-          <img src="https://leetcode-stats-card.vercel.app/api?username=aayush2317&theme=dark" width="50%" alt="LeetCode Stats" />
+        <a href="https://leetcode.com/u/aayush_yadav23/" target="_blank">
+          <img src="https://leetcode-stats-three.vercel.app/api?username=aayush_yadav23&theme=dark" width="50%" alt="LeetCode Stats" />
         </a>
       </p>
     </td>
