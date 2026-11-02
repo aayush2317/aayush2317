@@ -16,23 +16,15 @@
   </tr>
 
   <!-- Row 2: Dynamic GitHub Stats Cards -->
-  <tr>
-    <td colspan="2" align="center">
-      <br/>
-      <p align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aayush2317&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Aayush's GitHub Stats" />
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aayush2317&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
-      </p>
-    </td>
-  </tr>
+ 
 
-  <!-- Row 3: Dynamic LeetCode Card -->
+  <!-- Row 3: Reliable Dynamic LeetCode Badge & Stats -->
   <tr>
     <td colspan="2" align="center">
       <br/>
       <p align="center">
         <a href="https://leetcode.com/u/aayush_yadav23/" target="_blank">
-          <img src="https://leetcode-badge.vercel.app/api/users/aayush_yadav23?theme=tokyonight" width="55%" alt="LeetCode Stats" />
+          <img src="https://img.shields.io/badge/LeetCode-153%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
         </a>
       </p>
     </td>
@@ -50,4 +42,8 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Mint" />
-        <img src="
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </p>
+    </td>
+  </tr>
+</table>
